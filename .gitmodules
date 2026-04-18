@@ -1,0 +1,3 @@
+[submodule "teastore"]
+	path = teastore
+	url = https://github.com/DescartesResearch/TeaStore.git
